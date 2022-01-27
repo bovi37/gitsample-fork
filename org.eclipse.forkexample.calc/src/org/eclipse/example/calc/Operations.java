@@ -13,7 +13,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * Class to register operations
+ * Class to register operationsx
  */
 public class Operations {
 	public static final Operations INSTANCE = new Operations();
